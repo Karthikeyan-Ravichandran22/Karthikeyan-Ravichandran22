@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Karthikeyan Ravichandran</h1>
 <h3 align="center">A passionated Data Scientist Originally from India, now based in United Kingdom.</h3>
-<br>
-<br>
-<br>
-<br>
 
-<img align="right" alt="Coding" width="300" src="https://indoanalytica.com/static/images/data-science-2.gif">
+<br>
+<br>
+<br>
+<br>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on **data analytics, artificial intelligence, big data, and data science**
 
