@@ -9,7 +9,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on **data analytics, artificial intelligence, big data, and data science**
+- 🔭 I’m currently working on **Data Analytics, Artificial Intelligence, Big Data, and Data Science**
 
 - 🌱 I’m currently learning **Docker & Cloud Services**
 
