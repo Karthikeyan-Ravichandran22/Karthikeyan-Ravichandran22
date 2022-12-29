@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Docker & Cloud Services**
 
-- 👯 I’m looking to collaborate with **Data Scientists, Machine Learning Engineers and developers**
+- 👯 I’m looking to collaborate with **Data Scientists, Machine Learning Engineers and Developers**
 
 - 📝 I regularly write articles on [https://medium.com/@karthiavenger45](https://medium.com/@karthiavenger45)
 
