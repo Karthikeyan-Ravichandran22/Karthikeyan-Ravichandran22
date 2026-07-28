@@ -1,10 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikeyan-Ravichandran22/Karthikeyan-Ravichandran22/main/dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikeyan-Ravichandran22/Karthikeyan-Ravichandran22/main/light.svg?v=2">
-    <img alt="Karthikeyan Ravichandran Profile Banner" src="https://raw.githubusercontent.com/Karthikeyan-Ravichandran22/Karthikeyan-Ravichandran22/main/dark.svg?v=2" width="100%">
-  </picture>
+  <img src="dark.svg" width="100%" alt="Karthikeyan Ravichandran Profile Banner">
 </p>
 
 <!-- STATS CARDS -->
@@ -19,11 +15,7 @@
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikeyan-Ravichandran22/Karthikeyan-Ravichandran22/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikeyan-Ravichandran22/Karthikeyan-Ravichandran22/output/github-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Karthikeyan-Ravichandran22/Karthikeyan-Ravichandran22/output/github-snake-dark.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Karthikeyan-Ravichandran22/Karthikeyan-Ravichandran22/output/github-snake-dark.svg" width="100%" alt="Contribution Snake">
 </p>
 
 ---
