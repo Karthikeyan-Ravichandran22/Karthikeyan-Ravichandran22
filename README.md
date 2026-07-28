@@ -1,8 +1,12 @@
 <!-- BANNER -->
+<!-- BANNER -->
 <p align="center">
-  <img src="dark.svg" width="100%" alt="Karthikeyan Ravichandran Profile Banner">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Karthikeyan Ravichandran Profile Banner" src="dark.svg" width="100%">
+  </picture>
 </p>
-
 <!-- STATS CARDS -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
